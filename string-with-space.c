@@ -4,8 +4,8 @@
 int main(){
 
     char string[20];
-    // gets(string);
-    fgets(string,16,stdin);
+    gets(string);
+    // fgets(string,16,stdin);
     printf("%s",string);
     return 0;
 }

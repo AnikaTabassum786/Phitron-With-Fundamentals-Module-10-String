@@ -1,1 +1,1 @@
-char
+printf("%d",s[i]);
